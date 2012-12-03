@@ -1,0 +1,22 @@
+shortdescription="Windrad"
+description="Vorlagen für Windräder"
+version="0.01_2012-12-02" 
+link="http://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind">
+
+  <item name="Windrad" type="node">
+    <link href="http://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind" />
+    <label text="Windrad" />
+    <key key="power" value="generator" /> 
+    <key key="generator:source" value="wind" /> 
+    <text key="name" text="Name" />
+    <text key="operator" text="Betreiber" />
+    <combo key="manufacturer" text="Hersteller" values="Enercon,Nordex,REpower,Südwind,Vestas" default="" delete_if_empty="true" />
+    <text key="manufacturer:type" text="Typenbezeichnung" />
+    <combo key="generator:output:electricity" text="Leistung" values="500 kW,2000 kW,2300 kW,3000 kW" default="" delete_if_empty="true"/>
+    <text key="height" text="Narbenhöhe in Meter" />
+    <text key="rotor:diameter" text="Rotordurchmesser in Meter" />
+    <text key="website" text="Homepage" />
+    <text key="ref" text="Referenznummer" />
+    <text key="note" text="Notizen" />
+   </item>
+</presets>

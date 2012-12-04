@@ -6,7 +6,7 @@ link="http://wiki.openstreetmap.org/wiki/Tag:generator:source%3Dwind"
 de.link="http://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind"
 fr.link="http://wiki.openstreetmap.org/wiki/FR:Tag:generator:source%3Dwind">
 
-  <item name="Windrad" type="node">
+  <item name="Windrad" type="node,closedway">
     <link href="http://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind" />
     <label text="Windrad" />
     <key key="power" value="generator" /> 

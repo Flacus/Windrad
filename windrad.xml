@@ -17,7 +17,7 @@ fr.link="http://wiki.openstreetmap.org/wiki/FR:Tag:generator:source%3Dwind">
     <text key="manufacturer:type" text="type" de.text="Typenbezeichnung" />
     <combo key="generator:output:electricity" text="power" de.text="Leistung" values="500 kW,2000 kW,2300 kW,3000 kW" default="" delete_if_empty="true"/>
     <text key="height" text="height" de.text="Nabenhöhe in Meter" />
-    <text key="rotor:diameter" text=" rotor diameter" de.text="Rotordurchmesser in Meter" />
+    <text key="rotor:diameter" text="rotor diameter" de.text="Rotordurchmesser in Meter" />
     <text key="website" text="Homepage" />
     <text key="ref" text="Referenznummer" />
     <text key="note" text="note" de.text="Notizen" />

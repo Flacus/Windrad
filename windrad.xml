@@ -2,12 +2,12 @@
 shortdescription="Windrad"
 description="Vorlagen für Windräder"
 version="2012-12-03" 
-link="http://wiki.openstreetmap.org/wiki/Tag:generator:source%3Dwind"
-de.link="http://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind"
-fr.link="http://wiki.openstreetmap.org/wiki/FR:Tag:generator:source%3Dwind">
+link="https://wiki.openstreetmap.org/wiki/Tag:generator:source=wind"
+de.link="https://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind"
+fr.link="https://wiki.openstreetmap.org/wiki/FR:Tag:generator:source=wind">
 
   <item name="Windrad" type="node,closedway">
-    <link href="http://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind" />
+    <link href="https://wiki.openstreetmap.org/wiki/DE:Tag:generator:source=wind" />
     <label text="Windrad" />
     <key key="power" value="generator" /> 
     <key key="generator:source" value="wind" /> 
